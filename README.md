@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emilija06
-- 👀 I’m interested in music, art.
+- 👀 I’m interested in music.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python tirst project.
 - 📫 How to reach me emiljka06@gmail.com
